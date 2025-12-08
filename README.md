@@ -11,7 +11,7 @@ I'm a passionate developer currently in my **2nd year**, learning Android Develo
 - **Android:** Jetpack, MVVM, LiveData, ViewModel, RecyclerView  
 - **Backend:** Firebase Firestore, Authentication  
 - **Tools:** Git, GitHub, Postman  
-- **Learning:** Machine Learning, Cloud Computing, DevOps  
+- **Learning:** Machine Learning 
 
 ---
 
