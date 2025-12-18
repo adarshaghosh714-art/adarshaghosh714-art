@@ -17,7 +17,6 @@ I'm a passionate developer currently in my **2nd year**, learning Android Develo
 
 ## 📌 Current Projects
 - Personal Finance App (MVVM + Firebase)
-- Contacts App (RecyclerView + ViewModel + LiveData)
 - Upcoming: REST API-based Android App
 
 ---
