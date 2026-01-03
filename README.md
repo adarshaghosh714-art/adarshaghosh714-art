@@ -1,31 +1,43 @@
-<h1 align="center">🔥 Adarsha Ghosh 🔥</h1>
-<h3 align="center">⚡ Android Developer | Jetpack Compose • MVVM ⚡</h3>
+<h1 align="center">⚡ ADARSHA GHOSH ⚡</h1>
+<h3 align="center">🚀 ANDROID DEVELOPER | JETPACK COMPOSE • MVVM 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=adarshaghosh&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<p align="center">
+  <b>“Building scalable Android apps with clean architecture and modern UI.”</b>
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 SOCIAL PRESENCE
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:adarsha@example.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🧠 TECH STACK
+## 🧠 WHO AM I?
+- 🎯 **Primary Focus:** Android application development using modern Android tools  
+- 🛠 **Core Strength:** Clean architecture, state management, and UI consistency  
+- 📌 **What Drives Me:** Writing maintainable, scalable, and production-ready code  
+- ⚙ **Approach:** MVVM-based design with separation of concerns and best practices  
+
+---
+
+## 🔥 TECH STACK OVERVIEW
 
 ### 📱 ANDROID DEVELOPMENT
 <p>
   <img src="https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=android&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge"/>
 </p>
 
 ### 💻 PROGRAMMING LANGUAGES
@@ -45,17 +57,44 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📂 FEATURED PROJECTS
+| Project Name | Description | Tech Used |
+|-------------|-------------|-----------|
+| Contacts App | Offline-first contacts manager with clean UI | Kotlin, Compose, MVVM, Room |
+| Firebase Auth App | Authentication system with real-time data | Kotlin, Firebase, MVVM |
+| Notes App | Minimal notes app with persistent storage | Jetpack Compose, Room |
+
+---
+
+## 📊 GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshaghosh&show_icons=true&theme=radical&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshaghosh&layout=compact&theme=radical&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshaghosh&theme=radical&border_radius=10"/>
 </p>
 
 ---
 
-<h3 align="center">💡 BUILDING MODERN ANDROID EXPERIENCES WITH PRECISION</h3>
+## 🏆 ACHIEVEMENTS & HIGHLIGHTS
+- 🥇 Built multiple Android apps using modern Android stack  
+- 🥈 Strong foundation in multi-language programming  
+- 🥉 Consistent focus on architecture-driven development  
+
+---
+
+## 🧭 CURRENT FOCUS
+- 🔄 Enhancing Jetpack Compose UI patterns  
+- 🧪 Improving app scalability with MVVM best practices  
+- 🚀 Preparing for professional Android development roles  
+
+---
+
+<h3 align="center">⚙️ CONSISTENCY • ARCHITECTURE • PERFORMANCE ⚙️</h3>
+
+<p align="center">
+  <b>Focused on becoming a high-impact Android engineer.</b>
+</p>
