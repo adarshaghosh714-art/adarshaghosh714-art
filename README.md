@@ -1,12 +1,40 @@
-💫 About Me:
-I am Adarsha Ghosh a btech student of CSE(AiMl) a tech enthusiast currently learning android developer
+<h1 align="center">Hi 👋, I'm Adarsha Ghosh</h1>
+<h3 align="center">Android Developer | Jetpack Compose • MVVM</h3>
 
-🌐 Socials:
-LinkedIn email
+---
 
-💻 Tech Stack:
-C Kotlin Java Python R Firebase NumPy Pandas scikit-learn Matplotlib
+## 🔥 About Me
+I build modern Android applications with a strong emphasis on **clean architecture**, **scalability**, and **smooth user experiences**.
 
-📊 GitHub Stats:
+---
 
+## ⚙️ Tech Stack
 
+### 📱 Android
+- Android SDK  
+- Jetpack Compose  
+- MVVM Architecture  
+
+### 💻 Languages
+- Java  
+- Kotlin  
+- C  
+- Python  
+- R  
+
+### 🗄 Databases
+- Firebase  
+- Room Database  
+
+---
+
+## ✨ Development Philosophy
+- Clean, maintainable code  
+- Architecture-driven development  
+- Performance-focused implementations  
+
+---
+
+<p align="center">
+  <i>Consistency. Clarity. Craftsmanship.</i>
+</p>
