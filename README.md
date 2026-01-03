@@ -1,39 +1,12 @@
-# 👋 Hi, I'm Adarsha Ghosh
+💫 About Me:
+I am Adarsha Ghosh a btech student of CSE(AiMl) a tech enthusiast currently learning android developer
 
-### 🚀 Android Developer | Kotlin | Java | Firebase | APIs | DSA Learner
+🌐 Socials:
+LinkedIn email
 
-I'm a passionate developer currently in my **2nd year**, learning Android Development, Machine Learning, REST APIs, and Cloud/DevOps.
+💻 Tech Stack:
+C Kotlin Java Python R Firebase NumPy Pandas scikit-learn Matplotlib
 
----
+📊 GitHub Stats:
 
-## 🔥 Tech Stack
-- **Languages:** Kotlin, Java, C  
-- **Android:** Jetpack, MVVM, LiveData, ViewModel, RecyclerView  
-- **Backend:** Firebase Firestore, Authentication  
-- **Tools:** Git, GitHub, Postman  
-- **Learning:** Machine Learning 
 
----
-
-## 📌 Current Projects
-- Personal Finance App (MVVM + Firebase)
-- Upcoming: REST API-based Android App
-
----
-
-## 🎯 Goals for 2025
-- Crack an internship  
-- Build 5 strong Android projects  
-- Learn full-stack mobile development  
-- Contribute to open-source  
-
----
-
-## 📫 Connect with me  
-- GitHub: https://github.com/adarshaghosh714-art  
-- LinkedIn: https://www.linkedin.com/in/adarsha-ghosh-352a1a325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: adarshaghosh714@gmail.com
-
----
-
-⭐ **Thanks for visiting my profile!**
