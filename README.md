@@ -59,7 +59,7 @@
 
 ## 📂 FEATURED PROJECTS
 | Project Name | Description | Tech Used |
-|-------------|------------|-----------|
+|-------------|-------------|-----------|
 | Contacts App | Offline-first contacts manager with clean UI | Kotlin, Compose, MVVM, Room |
 | Firebase Auth App | Authentication system with real-time data | Kotlin, Firebase, MVVM |
 | Notes App | Minimal notes app with persistent storage | Jetpack Compose, Room |
@@ -82,7 +82,7 @@
 ## 🏆 ACHIEVEMENTS & HIGHLIGHTS
 - 🥇 Built multiple Android applications using modern Android stack  
 - 🥈 Strong foundation in multi-language programming  
-- 🥉 Consistent focus on architecture-driven development  
+- 🥉 Consistent focus on clean architecture and performance  
 
 ---
 
@@ -96,16 +96,16 @@
 ## 🏅 Google for Developers Badges
 
 ### 📌 Joined the Google Developer Program  
-🔗 [View Badge on Google Developers](https://developers.google.com/profile/badges/profile/created-profile)
+🔗 https://developers.google.com/profile/badges/profile/created-profile
 
-### 📌Completed Learning Activities across Google's developer ecosystem
-🔗 [View Badge on Google Developers]((https://developers.google.com/profile/badges/recognitions/learnings))
-*Additional Google Developer badges will be added as they are earned.*
+### 📌 Completed Learning Activities (Google Developer Program)  
+🔗 https://developers.google.com/profile/badges/recognitions/learnings
+
+*More badges will be added here as I earn them!*
 
 ---
 
 <h3 align="center">⚙️ CONSISTENCY • ARCHITECTURE • PERFORMANCE ⚙️</h3>
-
 <p align="center">
   <b>Focused on becoming a high-impact Android engineer.</b>
 </p>
