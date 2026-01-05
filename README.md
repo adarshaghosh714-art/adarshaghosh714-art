@@ -98,6 +98,8 @@
 ### 📌 Joined the Google Developer Program  
 🔗 [View Badge on Google Developers](https://developers.google.com/profile/badges/profile/created-profile)
 
+### 📌Completed Learning Activities across Google's developer ecosystem
+🔗 [View Badge on Google Developers]((https://developers.google.com/profile/badges/recognitions/learnings))
 *Additional Google Developer badges will be added as they are earned.*
 
 ---
