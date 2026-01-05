@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>“Building scalable Android apps with clean architecture and modern UI.”</b>
+  <b>“Building scalable Android applications with clean architecture and modern UI.”</b>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 - 🎯 **Primary Focus:** Android application development using modern Android tools  
 - 🛠 **Core Strength:** Clean architecture, state management, and UI consistency  
 - 📌 **What Drives Me:** Writing maintainable, scalable, and production-ready code  
-- ⚙ **Approach:** MVVM-based design with separation of concerns and best practices  
+- ⚙ **Approach:** MVVM-based design with clear separation of concerns  
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 📂 FEATURED PROJECTS
 | Project Name | Description | Tech Used |
-|-------------|-------------|-----------|
+|-------------|------------|-----------|
 | Contacts App | Offline-first contacts manager with clean UI | Kotlin, Compose, MVVM, Room |
 | Firebase Auth App | Authentication system with real-time data | Kotlin, Firebase, MVVM |
 | Notes App | Minimal notes app with persistent storage | Jetpack Compose, Room |
@@ -80,7 +80,7 @@
 ---
 
 ## 🏆 ACHIEVEMENTS & HIGHLIGHTS
-- 🥇 Built multiple Android apps using modern Android stack  
+- 🥇 Built multiple Android applications using modern Android stack  
 - 🥈 Strong foundation in multi-language programming  
 - 🥉 Consistent focus on architecture-driven development  
 
@@ -88,8 +88,17 @@
 
 ## 🧭 CURRENT FOCUS
 - 🔄 Enhancing Jetpack Compose UI patterns  
-- 🧪 Improving app scalability with MVVM best practices  
+- 🧪 Improving application scalability using MVVM best practices  
 - 🚀 Preparing for professional Android development roles  
+
+---
+
+## 🏅 Google for Developers Badges
+
+### 📌 Joined the Google Developer Program  
+🔗 [View Badge on Google Developers](https://developers.google.com/profile/badges/profile/created-profile)
+
+*Additional Google Developer badges will be added as they are earned.*
 
 ---
 
